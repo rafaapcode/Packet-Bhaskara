@@ -1,0 +1,19 @@
+{
+  "name": "bhaskara-solution",
+  "version": "1.0.0",
+  "description": "Resolve a equação de bhaskara completa",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaapcode/Packet-Bhaskara.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaapcode/Packet-Bhaskara/issues"
+  },
+  "homepage": "https://github.com/rafaapcode/Packet-Bhaskara#readme"
+}
